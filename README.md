@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/sergiovallenari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergio.vallenari" height="30" width="40" /></a>
 </p>
 <h3 align="left">Sobre mi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
-<p>Desarrollador FullStack junior con experiencia en JavaScript, React, Node.js y Redux Toolkit, así como en bases de datos relacionales como MySQL y PostgreSQL con Sequelize. Sólidos conocimientos en desarrollo ágil y prácticas de codificación. </p>
+<p>Desarrollador FullStack con experiencia en tecnologías como <strong>SQL Server</strong>, <strong>MySQL</strong>, <strong>Angular</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, y <strong>Node.js</strong>. Amplia experiencia trabajando con bases de datos relacionales utilizando <strong>Sequelize</strong>, y con bases de datos en tiempo real como <strong>Firebase</strong> y <strong>GCP</strong>. Experto en la creación y gestión de <strong>microservicios</strong>, así como en <strong>Docker</strong> para la creación de contenedores y experiencia en <strong>despliegues en AWS</strong> para la gestión de infraestructuras escalables. También tengo experiencia en el desarrollo ágil, implementando prácticas de codificación eficientes para crear aplicaciones robustas y escalables.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
